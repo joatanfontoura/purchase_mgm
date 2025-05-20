@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="capex_opex" label="Capex/Opex" language="en" table="x_691012_purchas_0_purchase_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>capex_opex</element>
+            <help/>
+            <hint/>
+            <label>Capex/Opex</label>
+            <language>en</language>
+            <name>x_691012_purchas_0_purchase_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 20:57:02</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Capex/Opex</sys_name>
+            <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+            <sys_update_name>sys_documentation_x_691012_purchas_0_purchase_request_capex_opex_en</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 20:57:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

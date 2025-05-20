@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="af03ec83c369ee50d3523cec05013106" extends="task" label="Demand" max_length="40" name="x_691012_purchas_0_demand" type="collection"/>
+</database>

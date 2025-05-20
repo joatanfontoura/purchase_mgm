@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Scope Details" section_id="fb4da443c3a9ee50d3523cec050131a0" sys_domain="global" table="x_691012_purchas_0_purchase_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>0</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>145da443c3a9ee50d3523cec050131a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>1c5da443c3a9ee50d3523cec050131a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unregistered_vendor</element>
+            <position>2</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>145da443c3a9ee50d3523cec050131aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>1c5da443c3a9ee50d3523cec050131aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hiring_scope</element>
+            <position>4</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>585da443c3a9ee50d3523cec050131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hiring_benefit</element>
+            <position>5</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:56</sys_created_on>
+            <sys_id>505da443c3a9ee50d3523cec050131d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Scope Details" display_value="Scope Details" name="x_691012_purchas_0_purchase_request" sys_domain="global" view="Default view">fb4da443c3a9ee50d3523cec050131a0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Scope Details</caption>
+            <header>false</header>
+            <name>x_691012_purchas_0_purchase_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-20 21:23:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb4da443c3a9ee50d3523cec050131a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_691012_purchas_0_purchase_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+            <sys_update_name>sys_ui_section_fb4da443c3a9ee50d3523cec050131a0</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-20 21:23:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

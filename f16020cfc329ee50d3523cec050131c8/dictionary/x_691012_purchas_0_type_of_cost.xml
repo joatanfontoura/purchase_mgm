@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d922e443c369ee50d3523cec050131bc" label="Type of Cost" max_length="40" name="x_691012_purchas_0_type_of_cost" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Capex" sequence="0" value="Capex"/>
+                <element inactive_on_update="false" label="Opex" sequence="0" value="Opex"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
+    </element>
+</database>
