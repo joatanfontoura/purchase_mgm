@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_691012_purchas_0_type_of_cost,x_691012_purchas_0_purchase_request,x_691012_purchas_0_demand</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>purchase-management-workspace Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_691012_purchas_0_purchase_management_workspace_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:49</sys_created_on>
+        <sys_id>187d53bcc3bda210d3523cec0501312f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_691012_purchas_0_purchase_management_workspace_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>ais_dictionary_187d53bcc3bda210d3523cec0501312f</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:50</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

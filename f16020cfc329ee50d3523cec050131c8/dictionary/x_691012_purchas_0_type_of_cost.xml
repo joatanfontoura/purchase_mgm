@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d922e443c369ee50d3523cec050131bc" label="Type of Cost" max_length="40" name="x_691012_purchas_0_type_of_cost" type="collection">
+    <element db_object_id="d922e443c369ee50d3523cec050131bc" label="Type of Cost" max_length="40" name="x_691012_purchas_0_type_of_cost" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Capex" sequence="0" value="Capex"/>

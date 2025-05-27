@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Purchase Request Table</name>
+        <retention_policy display_value="Two years">04f129e57792f010be280d892c5a99d9</retention_policy>
+        <source>x_691012_purchas_0_purchase_request</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:48</sys_created_on>
+        <sys_id>107d13bcc3bda210d3523cec050131ff</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Purchase Request Table</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>ais_datasource_107d13bcc3bda210d3523cec050131ff</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:49</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

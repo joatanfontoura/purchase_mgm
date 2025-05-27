@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>This is default AI Search profile for Purchase Management | Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>purchase-management-workspace Search Profile</label>
+        <name>x_691012_purchas_0_rwtvwbbo_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:33</sys_created_on>
+        <sys_id>e86d1b7c50bda210828973145319aef0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>purchase-management-workspace Search Profile</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>ais_search_profile_e86d1b7c50bda210828973145319aef0</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:49</sys_updated_on>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_691012_purchas_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-20 20:27:35</sys_created_on>
+        <sys_id>3a6060cfc329ee50d3523cec05013191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_691012_purchas_0.user</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>sys_user_role_3a6060cfc329ee50d3523cec05013191</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-20 20:27:35</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</application>
+        <file_path/>
+        <instance_id>d3230b9c1b867d949377eb9b2d4bcb9e</instance_id>
+        <instance_name>dev190045</instance_name>
+        <name>sys_user_role_3a6060cfc329ee50d3523cec05013191</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_691012_purchas_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2025-05-20 20:27:35</sys_created_on><sys_id>3a6060cfc329ee50d3523cec05013191</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_691012_purchas_0.user</sys_name><sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package><sys_policy/><sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope><sys_update_name>sys_user_role_3a6060cfc329ee50d3523cec05013191</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2025-05-20 20:27:35</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1309228894</payload_hash>
+        <record_name>x_691012_purchas_0.user</record_name>
+        <reverted_from/>
+        <source>396060cfc329ee50d3523cec05013155</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-20 20:27:35</sys_created_on>
+        <sys_id>766060cfc329ee50d3523cec05013194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ef6154b80000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-20 20:27:35</sys_updated_on>
+        <type>Role</type>
+        <update_guid>7a6060cfda29ee5029be6a6f0b31cd93</update_guid>
+        <update_guid_history>7a6060cfda29ee5029be6a6f0b31cd93:1309228894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_691012_purchas_0.user">b52c7134c375a210d3523cec050131d6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 13:37:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>11e18f9e637c4e6b9bda0352a67548f9</sys_id>
+        <sys_metadata>3a6060cfc329ee50d3523cec05013191</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_691012_purchas_0.user</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_scope_delete display_value="">0058ba930cd24c20bb354ddde0606284</sys_scope_delete>
+        <sys_update_name>sys_user_role_3a6060cfc329ee50d3523cec05013191</sys_update_name>
+        <sys_update_version display_value="sys_user_role_3a6060cfc329ee50d3523cec05013191">766060cfc329ee50d3523cec05013194</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 13:37:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

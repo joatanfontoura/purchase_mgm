@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="9ae52c87c369ee50d3523cec05013106" extends="task" label="Purchase Request" max_length="40" name="x_691012_purchas_0_purchase_request" type="collection">
+    <element audit="true" db_object_id="9ae52c87c369ee50d3523cec05013106" extends="task" label="Purchase Request" max_length="40" name="x_691012_purchas_0_purchase_request" text_index="true" type="collection">
         <element label="Bill" max_length="40" name="bill" type="string"/>
         <element label="Cost Center" max_length="32" name="cost_center" reference="cmn_cost_center" type="reference"/>
         <element label="Order Request" max_length="40" name="order_request" type="string"/>

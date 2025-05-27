@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">317dd3bcc3bda210d3523cec050131b1</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>797dd3bcc3bda210d3523cec050131bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>par_dashboard_widget_797dd3bcc3bda210d3523cec050131bd</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:55</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</application>
+        <file_path/>
+        <instance_id>d3230b9c1b867d949377eb9b2d4bcb9e</instance_id>
+        <instance_name>dev190045</instance_name>
+        <name>par_dashboard_widget_797dd3bcc3bda210d3523cec050131bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">317dd3bcc3bda210d3523cec050131b1</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2025-05-26 20:42:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>797dd3bcc3bda210d3523cec050131bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package><sys_policy/><sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope><sys_update_name>par_dashboard_widget_797dd3bcc3bda210d3523cec050131bd</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2025-05-26 20:42:55</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>2141709491</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c2a16c03c369ee50d3523cec05013131</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:55</sys_created_on>
+        <sys_id>fd7dd3bcc3bda210d3523cec050131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970e5586c50000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:55</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>f17dd3bc57bda210898032fe0666b3cb</update_guid>
+        <update_guid_history>f17dd3bc57bda210898032fe0666b3cb:2141709491</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4a7dd3bcc3bda210d3523cec050131df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:55</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>4a51cb4a4104458dbffbc69bf9f72fb1</sys_id>
+        <sys_metadata>797dd3bcc3bda210d3523cec050131bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_scope_delete display_value="">0058ba930cd24c20bb354ddde0606284</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_797dd3bcc3bda210d3523cec050131bd</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_797dd3bcc3bda210d3523cec050131bd">fd7dd3bcc3bda210d3523cec050131cb</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

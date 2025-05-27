@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 17:07:37</sys_created_on>
+        <sys_id>0b1caab8c3b9a210d3523cec0501319a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_691012_purchas_0.financial_requester</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_security_acl display_value="">949bae78c3b9a210d3523cec050131dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0b1caab8c3b9a210d3523cec0501319a</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:07:37</sys_updated_on>
+        <sys_user_role display_value="x_691012_purchas_0.financial_requester" name="x_691012_purchas_0.financial_requester">7d0071f0c335a210d3523cec0501310a</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</application>
+        <file_path/>
+        <instance_id>d3230b9c1b867d949377eb9b2d4bcb9e</instance_id>
+        <instance_name>dev190045</instance_name>
+        <name>sys_security_acl_role_0b1caab8c3b9a210d3523cec0501319a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2025-05-26 17:07:37</sys_created_on><sys_id>0b1caab8c3b9a210d3523cec0501319a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_691012_purchas_0.financial_requester</sys_name><sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package><sys_policy/><sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope><sys_security_acl display_value="">949bae78c3b9a210d3523cec050131dc</sys_security_acl><sys_update_name>sys_security_acl_role_0b1caab8c3b9a210d3523cec0501319a</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2025-05-26 17:07:37</sys_updated_on><sys_user_role display_value="x_691012_purchas_0.financial_requester" name="x_691012_purchas_0.financial_requester">7d0071f0c335a210d3523cec0501310a</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-711892161</payload_hash>
+        <record_name>.x_691012_purchas_0.financial_requester</record_name>
+        <reverted_from/>
+        <source>c2a16c03c369ee50d3523cec05013131</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 17:07:37</sys_created_on>
+        <sys_id>9c3c2eb8c3b9a210d3523cec050131a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970d906b7c0000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:07:37</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>903c2eb8c2b9a21070944aebd6dc3da8</update_guid>
+        <update_guid_history>903c2eb8c2b9a21070944aebd6dc3da8:-711892161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_691012_purchas_0.financial_requester">36517a7cc3b9a210d3523cec0501317a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 17:30:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>584635f8616d4af0a0e8ac57a3c20410</sys_id>
+        <sys_metadata>0b1caab8c3b9a210d3523cec0501319a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_691012_purchas_0.financial_requester</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_parent display_value="core_company">949bae78c3b9a210d3523cec050131dc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_scope_delete display_value="">0058ba930cd24c20bb354ddde0606284</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0b1caab8c3b9a210d3523cec0501319a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0b1caab8c3b9a210d3523cec0501319a">9c3c2eb8c3b9a210d3523cec050131a8</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:30:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Purchase Management | Workspace">b57dd3bcc3bda210d3523cec0501319c</dashboard>
+        <experience display_value="Purchase Management | Workspace">ac6d1b7ce6bda21063782158d77f3cf0</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>827d17bcc3bda210d3523cec05013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>par_dashboard_visibility_827d17bcc3bda210d3523cec05013112</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:56</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2d7dd3bcc3bda210d3523cec05013137" sys_domain="global" table="x_691012_purchas_0_type_of_cost" version="3" view="workspace-purchase-management--workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>ad7dd3bcc3bda210d3523cec05013138</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>217dd3bcc3bda210d3523cec0501313a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>257dd3bcc3bda210d3523cec05013139</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>3</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>a57dd3bcc3bda210d3523cec0501313a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>a97dd3bcc3bda210d3523cec05013139</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>5</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_id>2d7dd3bcc3bda210d3523cec0501313a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_691012_purchas_0_type_of_cost" sys_domain="global" view="686d1b7c10bda2101e6736c6e35f0ae8">2d7dd3bcc3bda210d3523cec05013137</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_691012_purchas_0_type_of_cost</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2025-05-26 20:42:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d7dd3bcc3bda210d3523cec05013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_691012_purchas_0_type_of_cost</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+            <sys_update_name>sys_ui_section_2d7dd3bcc3bda210d3523cec05013137</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2025-05-26 20:42:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Purchase Management  Workspace 0" name="workspace-purchase-management--workspace-0">686d1b7c10bda2101e6736c6e35f0ae8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

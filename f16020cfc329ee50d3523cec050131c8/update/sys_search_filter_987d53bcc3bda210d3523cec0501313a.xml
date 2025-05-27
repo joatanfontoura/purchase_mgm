@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Purchase Request">587d53bcc3bda210d3523cec0501311c</ais_search_source>
+        <label>Purchase Request</label>
+        <name>Purchase Request</name>
+        <order>100</order>
+        <search_context_config display_value="Purchase Management | Workspace AI Search Configuration">e86d1b7c4abda21063cf37e8d13cd8e9</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:49</sys_created_on>
+        <sys_id>987d53bcc3bda210d3523cec0501313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Request</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>sys_search_filter_987d53bcc3bda210d3523cec0501313a</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:49</sys_updated_on>
+    </sys_search_filter>
+</record_update>

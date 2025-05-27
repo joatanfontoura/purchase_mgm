@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="purchase-management-workspace Search Profile">e86d1b7c50bda210828973145319aef0</profile>
+        <search_source display_value="Purchase Request">587d53bcc3bda210d3523cec0501311c</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2025-05-26 20:42:49</sys_created_on>
+        <sys_id>9c7d53bcc3bda210d3523cec0501312c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>purchase-management-workspace Search Profile.Purchase Request</sys_name>
+        <sys_package display_value="Purchase Management" source="x_691012_purchas_0">f16020cfc329ee50d3523cec050131c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Management">f16020cfc329ee50d3523cec050131c8</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_9c7d53bcc3bda210d3523cec0501312c</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:42:49</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
